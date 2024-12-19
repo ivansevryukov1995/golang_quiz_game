@@ -1,1 +1,1 @@
-# golang_quiz_game
+# Golang quiz game
